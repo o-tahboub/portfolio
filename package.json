@@ -1,8 +1,8 @@
 {
-  "name": "simplefolio",
+  "name": "portfolio",
   "version": "1.0.1",
   "private": "true",
-  "description": "A clean, beautiful and responsive portfolio template for Developers!",
+  "description": "Osama's portfolio",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobidev/simplefolio"
+    "url": "git+https://github.com/o-tahboub/Portfolio"
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
+  "author": "Osama Tahboub",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cobidev/simplefolio/issues"
+    "url": "https://github.com/o-tahboub/Portfolio/issues"
   },
-  "homepage": "https://github.com/cobidev/simplefolio#readme",
+  "homepage": "https://o-tahboub.github.io/portfolio",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.7.0",
     "parcel": "^2.7.0",
